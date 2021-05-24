@@ -1,6 +1,6 @@
 ---
 - hosts: all
   tasks:
-  - name: Hello World
+  - name: Hello World from github
     debug: 
-      msg: Hello World
+      msg: Hello World from github
